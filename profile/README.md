@@ -30,7 +30,6 @@ It is built with **Node.js**, **Express.js**, and **MongoDB**, providing authent
 - Product, Order, Customer, and Category management APIs  
 - User management APIs  
 - Statistics tracking APIs  
-- Mailing service with Nodemailer  
 - Middleware for authentication & error handling  
 - CORS support  
 - MongoDB & Mongoose integration  
