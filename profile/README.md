@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This Back-Office Administration System is designed for organizations to manage products, categories, customers, orders, and other admin users efficiently. It provides a secure, modular, and scalable backend to support administrative operations.
+PACKPAL - Administration System is designed for organizations to manage products, categories, customers, orders, and other admin users efficiently. It provides a secure, modular, and scalable backend to support administrative operations.
 
 ## Features
 - **Authentication & Authorization:** Secure login and role-based access control.
